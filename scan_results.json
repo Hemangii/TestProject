@@ -1,0 +1,1 @@
+{"errors": [], "paths": {"scanned": [".DS_Store", ".scannerwork/.DS_Store", ".scannerwork/.sonar_lock", ".scannerwork/report-task.txt", "Dockerfile", "app.py", "hello_world.sh", "scan_results.json", "sonar-project.properties"]}, "results": [], "skipped_rules": [], "version": "1.44.0"}
